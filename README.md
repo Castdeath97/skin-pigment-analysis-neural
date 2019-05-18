@@ -1,12 +1,17 @@
-skin-pigment-analysis
+﻿skin-pigment-analysis-neural
 ==============================
 
-Development and Analysis of Machine Learning Models for the Diagnosis of Pigmented Skin Lesions.
+An revision of an Analysis of Machine Learning Models for the Diagnosis of Pigmented Skin Lesions using neural networks (https://github.com/Castdeath97/skin-pigment-analysis) based on the previous analysis conclusions.
 
 Usage and Prerequisites
 -----------------------
 * Needs a linux OS installation with python3 with pip and a anaconda installation for jupyter notebooks
 * install texlive-xetex with OS package manager (apt-get) (only to create pdf reports)
+* Create data directory with all its folders locally
+* Needs HAM1000 files loaded into user created data/raw directory:
+	- HAM10000_metadata.csv
+	- hmnist_28_28_L.csv
+	- hmnist_28_28_RGB.csv
 * pip install virtualenv
 * pip install virtualenvwrapper
 * Work with a virtual environment to run dataset creation and tests:
