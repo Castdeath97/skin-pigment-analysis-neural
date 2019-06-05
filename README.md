@@ -1,7 +1,7 @@
 ﻿skin-pigment-analysis-neural
 ==============================
 
-An revision of an Analysis of Machine Learning Models for the Diagnosis of Pigmented Skin Lesions using neural networks (https://github.com/Castdeath97/skin-pigment-analysis) based on the previous analysis conclusions.
+An revision of an Analysis of Machine Learning Models for the Diagnosis of Pigmented Skin Lesions using neural networks (https://github.com/Castdeath97/skin-pigment-analysis) based on the previous analysis conclusions. Also based on HAM10000 challenge: https://www.kaggle.com/kmader/skin-cancer-mnist-ham10000 .
 
 Usage and Prerequisites
 -----------------------
